@@ -30,7 +30,7 @@ async def send_notification(token: str, message: str):
         "message": {
             "token": token,
             "notification": {
-                "title": "Test Notification",
+                "title": "Harshment Notification",
                 "body": message
             }
         }
